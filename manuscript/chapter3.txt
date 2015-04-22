@@ -1,0 +1,10 @@
+# Chapter 3
+
+It was a **bold** and *italic* night!
+
+## Section Title
+
+I'm a lowly section.
+
+Suddenly, a shot rang out!
+
